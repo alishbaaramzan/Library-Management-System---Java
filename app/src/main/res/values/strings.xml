@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Otter Library</string>
+    <string name="welcome">Welcome to Otter Library!</string>
+    <string name="create_account">Create Account</string>
+    <string name="place_hold">Place Hold</string>
+    <string name="manage_system">Manage System</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="self_help">Self Help</string>
+    <string name="historical_fantasy">Historical Fantasy</string>
+    <string name="place_hold_btn">Place Hold</string>
+</resources>
